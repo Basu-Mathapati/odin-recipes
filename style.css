@@ -1,0 +1,19 @@
+.recipe-button1 {
+    color: black;
+    background-color: yellow;
+}
+
+.recipe-button2 {
+    color: white;
+    background-color: black;
+}
+
+.recipe-button3 {
+    color: white;
+    background-color: pink;
+}
+.recipe-button1, .recipe-button2, .recipe-button3 {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
